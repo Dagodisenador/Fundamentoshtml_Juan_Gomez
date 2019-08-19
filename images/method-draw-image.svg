@@ -1,0 +1,20 @@
+<svg width="344" height="395" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="397" width="346" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_3" height="221" width="271" y="77.4375" x="12.5" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000"/>
+  <rect id="svg_4" height="176" width="219" y="98.4375" x="38.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <ellipse ry="68.999998" rx="77.999994" id="svg_5" cy="133.437498" cx="250.499999" stroke-width="1.5" fill="#ffffff"/>
+  <ellipse ry="24" rx="25.5" id="svg_7" cy="184.4375" cx="152" stroke-width="1.5" fill="#005fbf"/>
+  <ellipse stroke="null" ry="30.588235" rx="32.5" id="svg_8" cy="133.025735" cx="242" stroke-width="1.5" fill="#ff7f00"/>
+  <ellipse stroke="null" ry="40.470589" rx="43.000001" id="svg_9" cy="54.908089" cx="289.500001" stroke-width="1.5" fill="#7f00ff"/>
+  <text stroke="null" transform="matrix(3.3908045291900635,0,0,3.3908045291900635,-498.48274433612823,-790.0114716142416) " xml:space="preserve" text-anchor="start" font-family="Euphoria, sans-serif" font-size="24" id="svg_10" y="342.115466" x="156.005084" stroke-opacity="null" stroke-width="0" fill="#000000">DAGO</text>
+ </g>
+</svg>
